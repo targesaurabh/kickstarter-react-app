@@ -1,0 +1,4 @@
+.searchedElement:hover{
+	background-color : gray;	
+	cursor: pointer;
+}
